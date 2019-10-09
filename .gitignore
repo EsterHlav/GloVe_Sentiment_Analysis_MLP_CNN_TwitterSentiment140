@@ -1,0 +1,4 @@
+# avoid uploading data to GitHub
+glove.twitter.27B.200d.txt
+testdata.manual.2009.06.14.csv
+training.1600000.processed.noemoticon.csv
